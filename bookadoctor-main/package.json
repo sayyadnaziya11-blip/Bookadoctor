@@ -1,0 +1,11 @@
+{
+  "name": "book-a-doctor",
+  "version": "1.0.0",
+  "description": "Full-Stack Healthcare Booking Platform",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "server:dev": "npm --prefix server run dev",
+    "build": "npm --prefix client run build"
+  }
+}
